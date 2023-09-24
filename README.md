@@ -1,5 +1,5 @@
 ### Hi there👋
-
+![fmatos23 GitHub stats](https://github-readme-stats.vercel.app/api?fmatos23=anuraghazra&show_icons=true&theme=radical)
 <!--
 **fmatos23/fmatos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
