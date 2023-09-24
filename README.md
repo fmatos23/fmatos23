@@ -1,5 +1,10 @@
-### Hi there👋
+### Hi there, welcome to my profile👋
 ![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmatos23&show_icons=true&theme=radical)
+
+### Languages you can find:
+<div style="display: inline_block"><br/>
+  <im> align = "center" alt ="python" src= "![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"</im>
+</div>
 <!--
 **fmatos23/fmatos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
